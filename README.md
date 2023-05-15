@@ -4,6 +4,10 @@ Introduction:
 - This is a standard TicTacToe java project where you go against a computer.
 - There isn't a difficulty that you select, you just play and go from there.
 
+When you get to the code part of this repository:
+- All the code you will need is under the src folder.
+- The only class that isn't needed in that file is the Main class.
+
 How to run the code:
 - You have to have the play class up in order to run the code(atleast for IntelliJ).
 
